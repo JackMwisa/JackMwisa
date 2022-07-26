@@ -25,7 +25,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 	  
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JackMwisa&theme=monokai-metallian&hide_border=true">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JackMwisa&theme=monokai-metallian&hide_border=true)](https://git.io/streak-stats)
+| :-: |[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JackMwisa&theme=monokai-metallian&hide_border=true)](https://git.io/streak-stats)
 	  
   
   <p align="center"> If you can dream it, you can do it🔥 </p>
