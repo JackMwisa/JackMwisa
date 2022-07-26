@@ -21,8 +21,12 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 <p align="center">
   
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  
-<center>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JackMwisa&theme=monokai-metallian&hide_border=true)](https://git.io/streak-stats)</center>
+  <!--
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JackMwisa&theme=monokai-metallian&hide_border=true)](https://git.io/streak-stats) -->
+	  
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=JackMwisa&theme=monokai-metallian&hide_border=true">
+	  
+	  
 	  
   
   <p align="center"> If you can dream it, you can do it🔥 </p>
