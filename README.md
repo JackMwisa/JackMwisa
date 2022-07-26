@@ -6,7 +6,6 @@ Hi, I'm Jack Mwisa!
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JackMwisa)](https://git.io/streak-stats)
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
@@ -20,6 +19,10 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+	  
+	  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JackMwisa&theme=monokai-metallian&hide_border=true)](https://git.io/streak-stats)
+	  
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jack's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JackMwisa&theme=monokai-metallian&hide_border=true"/>
   </a>
   <p align="center"> If you can dream it, you can do it🔥 </p>
