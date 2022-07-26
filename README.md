@@ -114,4 +114,5 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 	<a href="https://www.facebook.com/jackmwisa/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/jackmwisa/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="mailto:mukewajack@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+
 </p>
