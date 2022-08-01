@@ -33,7 +33,6 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
   <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
 
-
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
