@@ -33,8 +33,11 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
   <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
 
+<!-- snake game
 
 <img align="center" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+
+-->
 
 ## 🛠️ My Favorite Tools
 
