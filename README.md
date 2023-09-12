@@ -24,8 +24,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
   
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
 
-   [![GitHub Streak](https://streak-stats.demolab.com?user=JackMwisa&theme=transparent)](https://git.io/streak-stats)
-   
+  [![GitHub Streak](https://streak-stats.demolab.com?user=JackMwisa&theme=transparent)](https://git.io/streak-stats)
   <!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JackMwisa&theme=monokai-metallian&hide_border=true)](https://git.io/streak-stats) -->
 	  
