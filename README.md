@@ -113,8 +113,11 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Jack's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JackMwisa&custom_title=JackMwisa's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-  <br/>
+<!--    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Jack's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JackMwisa&custom_title=JackMwisa's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <br/> -->
+
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JackMwisa&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
 </details>
 
 <!-- https://github.com/sisodiya2421 -->
